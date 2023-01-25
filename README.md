@@ -1,7 +1,7 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-Projeto desenvolvido no evento NLW-SETUP, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Projeto desenvolvido no evento NLW-SETUP, um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
@@ -28,13 +28,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos. 
+O Habits é um app para ajudar a rastrear os hábitos.
 
 - [Link para o projeto]()
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-
-
